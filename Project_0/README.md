@@ -1,17 +1,24 @@
 # Проект 0. Угадай число
 
 ## Оглавление
+
 [1.Описание проекта]( )
+
 [2.Какой кейс решаем?]( )
+
 [3.Краткая информация о данных]( )
+
 [4.Этапы работы над проектом]( )
+
 [5.Результат]( )
+
 [6.Выводы]( )
 
+### Описание:
 
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[К оглавлению]( )
+:arrow_up:[К оглавлению](https://github.com/A1eksandraa/game_sf_data_science/tree/main/Project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Какой кейс решаем?
 Нужно написать программу, которая угадывает загаданное число за минимальное число попыток.
@@ -27,19 +34,19 @@
 Учимся писать хороший код на Python
 
 ### Краткая информация о данных
-:arrow_up:[К оглавлению]( )
+:arrow_up:[К оглавлению](https://github.com/A1eksandraa/game_sf_data_science/tree/main/Project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Этапы работы над проектом
 ****
 
-:arrow_up:[К оглавлению]( )
+:arrow_up:[К оглавлению](https://github.com/A1eksandraa/game_sf_data_science/tree/main/Project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Результаты:
 ****
 
-:arrow_up:[К оглавлению]( )
+:arrow_up:[К оглавлению](https://github.com/A1eksandraa/game_sf_data_science/tree/main/Project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Выводы:
 ****
 
-:arrow_up:[К оглавлению]( )
+:arrow_up:[К оглавлению](https://github.com/A1eksandraa/game_sf_data_science/tree/main/Project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
