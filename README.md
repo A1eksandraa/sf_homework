@@ -1,2 +1,8 @@
-# game_sf_data_science
-SF homework
+# My data science projects
+From the [Skillfactory Data Science course](https://lms.skillfactory.ru/data-scientist)
+
+## Проекты
+
+* [Проект 0. Игры: Угадай число](https://github.com/A1eksandraa/game_sf_data_science/tree/main)
+* [Проект 1. ]( )
+* [Проект 2. ]( )
